@@ -1,0 +1,130 @@
+{
+  "entities": {
+    "Quiz": {
+      "title": "Quiz",
+      "description": "Assessment quiz with questions, sections, and settings",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "code": { "type": "string" },
+        "title": { "type": "string" },
+        "subject": { "type": "string" },
+        "classGroup": { "type": "string" },
+        "topic": { "type": "string" },
+        "teacherId": { "type": "string" },
+        "teacherName": { "type": "string" },
+        "teacherEmail": { "type": "string" },
+        "schoolName": { "type": "string" },
+        "instructions": { "type": "string" },
+        "instructionBullets": { "type": "array", "items": { "type": "string" } },
+        "totalQuestions": { "type": "number" },
+        "durationMinutes": { "type": "number" },
+        "attemptsAllowed": { "type": "number" },
+        "randomizeQuestions": { "type": "boolean" },
+        "randomizeOptions": { "type": "boolean" },
+        "showScoreImmediately": { "type": "boolean" },
+        "showCorrectAnswers": { "type": "boolean" },
+        "allowFeedback": { "type": "boolean" },
+        "enableCameraProctoring": { "type": "boolean" },
+        "cameraCaptureCount": { "type": "number" },
+        "status": { "type": "string" },
+        "createdAt": { "type": "string" },
+        "updatedAt": { "type": "string" },
+        "questions": { "type": "array" },
+        "sections": { "type": "array" },
+        "accessMode": { "type": "string" },
+        "studentRoster": { "type": "array" },
+        "rosterValidationField": { "type": "string" }
+      },
+      "required": ["id", "title"]
+    },
+    "Submission": {
+      "title": "Submission",
+      "description": "Student assessment submission and proctoring log",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "quizId": { "type": "string" },
+        "quizCode": { "type": "string" },
+        "studentName": { "type": "string" },
+        "studentEmail": { "type": "string" },
+        "studentId": { "type": "string" },
+        "school": { "type": "string" },
+        "classGroup": { "type": "string" },
+        "submittedAt": { "type": "string" },
+        "timeSpentSeconds": { "type": "number" },
+        "totalScore": { "type": "number" },
+        "maxScore": { "type": "number" },
+        "percentage": { "type": "number" },
+        "answers": { "type": "object" },
+        "bookmarkedQuestions": { "type": "array" },
+        "sectionScores": { "type": "object" },
+        "topicScores": { "type": "object" },
+        "tabSwitchesCount": { "type": "number" },
+        "windowExitsCount": { "type": "number" },
+        "warningsAcknowledgedCount": { "type": "number" },
+        "feedbackSent": { "type": "boolean" },
+        "feedbackSummary": { "type": "string" }
+      },
+      "required": ["id", "studentName", "submittedAt"]
+    },
+    "TeacherAccessCode": {
+      "title": "TeacherAccessCode",
+      "description": "Teacher authorization credential",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "code": { "type": "string" },
+        "pin": { "type": "string" },
+        "teacherName": { "type": "string" },
+        "teacherEmail": { "type": "string" },
+        "department": { "type": "string" },
+        "status": { "type": "string" },
+        "source": { "type": "string" },
+        "createdAt": { "type": "string" },
+        "lastUsedAt": { "type": "string" }
+      },
+      "required": ["id", "code", "teacherName"]
+    },
+    "SystemSettings": {
+      "title": "SystemSettings",
+      "description": "Global application and registration settings",
+      "type": "object",
+      "properties": {
+        "isTeacherSelfRegistrationLocked": { "type": "boolean" },
+        "activeThemeId": { "type": "string" },
+        "adminContactEmail": { "type": "string" },
+        "schoolName": { "type": "string" },
+        "lastUpdated": { "type": "string" }
+      },
+      "required": ["isTeacherSelfRegistrationLocked"]
+    }
+  },
+  "firestore": {
+    "quizzes": {
+      "entity": "Quiz",
+      "description": "Collection of all quizzes"
+    },
+    "submissions": {
+      "entity": "Submission",
+      "description": "Collection of student assessment submissions"
+    },
+    "submission_details": {
+      "description": "Partitioned detailed audit payloads and answers for scalable Firestore queries"
+    },
+    "teacherAccessCodes": {
+      "entity": "TeacherAccessCode",
+      "description": "Collection of teacher authentication access codes"
+    },
+    "systemSettings": {
+      "entity": "SystemSettings",
+      "description": "Collection of system-level flags including teacher space locking"
+    },
+    "appState": {
+      "description": "Global synchronized configurations and section states"
+    },
+    "camera_captures": {
+      "description": "Collection of compressed proctoring camera captures (7-day retention policy)"
+    }
+  }
+}

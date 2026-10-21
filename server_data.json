@@ -1,0 +1,1970 @@
+{
+  "submissions": [
+    {
+      "id": "sub-101",
+      "studentName": "Kofi Mensah",
+      "studentEmail": "kofi.mensah@joymcq.edu.gh",
+      "studentId": "JOY-2026-014",
+      "school": "Joy MCQ Assessment Network",
+      "classGroup": "Year 2 Science A",
+      "submittedAt": "2026-08-06T08:30:00Z",
+      "timeSpentSeconds": 2820,
+      "totalScore": 36,
+      "maxScore": 40,
+      "percentage": 90,
+      "answers": {
+        "1": "A",
+        "2": "A",
+        "3": "B",
+        "4": "B",
+        "5": "A",
+        "6": "A",
+        "7": "B",
+        "8": "A",
+        "9": "A",
+        "10": "A",
+        "11": "A",
+        "12": "B",
+        "13": "A",
+        "14": "A",
+        "15": "D",
+        "16": "B",
+        "17": "B",
+        "18": "C",
+        "19": "A",
+        "20": "A",
+        "21": "B",
+        "22": "A",
+        "23": "A",
+        "24": "A",
+        "25": "C",
+        "26": "A",
+        "27": "A",
+        "28": "C",
+        "29": "C",
+        "30": "B",
+        "31": "B",
+        "32": "D",
+        "33": "B",
+        "34": "B",
+        "35": "A",
+        "36": "C",
+        "37": "D",
+        "38": "B",
+        "39": "C",
+        "40": "A"
+      },
+      "bookmarkedQuestions": [
+        15,
+        32
+      ],
+      "sectionScores": {
+        "1": {
+          "score": 10,
+          "max": 10,
+          "percentage": 100
+        },
+        "2": {
+          "score": 10,
+          "max": 10,
+          "percentage": 100
+        },
+        "3": {
+          "score": 9,
+          "max": 10,
+          "percentage": 90
+        },
+        "4": {
+          "score": 7,
+          "max": 10,
+          "percentage": 70
+        }
+      },
+      "topicScores": {
+        "Set Theory": {
+          "score": 3,
+          "max": 3,
+          "percentage": 100
+        },
+        "Binomial Expansion": {
+          "score": 2,
+          "max": 2,
+          "percentage": 100
+        },
+        "Sequences & Series": {
+          "score": 3,
+          "max": 3,
+          "percentage": 100
+        },
+        "Inequalities & Algebra": {
+          "score": 2,
+          "max": 2,
+          "percentage": 100
+        },
+        "Polynomials": {
+          "score": 3,
+          "max": 3,
+          "percentage": 100
+        },
+        "Coordinate Geometry": {
+          "score": 4,
+          "max": 4,
+          "percentage": 100
+        },
+        "Vectors": {
+          "score": 3,
+          "max": 3,
+          "percentage": 100
+        },
+        "Matrices & Determinants": {
+          "score": 4,
+          "max": 4,
+          "percentage": 100
+        },
+        "Statistics & Correlation": {
+          "score": 4,
+          "max": 4,
+          "percentage": 100
+        },
+        "Logarithms & Exponents": {
+          "score": 2,
+          "max": 2,
+          "percentage": 100
+        },
+        "Trigonometry": {
+          "score": 2,
+          "max": 2,
+          "percentage": 100
+        },
+        "Calculus & Optimization": {
+          "score": 2,
+          "max": 3,
+          "percentage": 66.7
+        },
+        "Linear Programming": {
+          "score": 1,
+          "max": 1,
+          "percentage": 100
+        }
+      },
+      "feedbackSent": true,
+      "feedbackSentAt": "2026-08-06T09:15:00Z",
+      "feedbackSummary": "Exemplary performance! Mastered matrices, vectors, set theory, and coordinate geometry. Focus slightly on cylindrical optimization problems."
+    },
+    {
+      "id": "sub-102",
+      "studentName": "Ama Appiah",
+      "studentEmail": "ama.appiah@joymcq.edu.gh",
+      "studentId": "JOY-2026-028",
+      "school": "Joy MCQ Assessment Network",
+      "classGroup": "Year 2 Science A",
+      "submittedAt": "2026-08-06T08:45:12Z",
+      "timeSpentSeconds": 3150,
+      "totalScore": 32,
+      "maxScore": 40,
+      "percentage": 80,
+      "answers": {
+        "1": "A",
+        "2": "A",
+        "3": "B",
+        "4": "B",
+        "5": "A",
+        "6": "A",
+        "7": "A",
+        "8": "A",
+        "9": "A",
+        "10": "A",
+        "11": "A",
+        "12": "B",
+        "13": "A",
+        "14": "A",
+        "15": "D",
+        "16": "A",
+        "17": "B",
+        "18": "C",
+        "19": "A",
+        "20": "A",
+        "21": "B",
+        "22": "A",
+        "23": "A",
+        "24": "A",
+        "25": "C",
+        "26": "A",
+        "27": "C",
+        "28": "C",
+        "29": "C",
+        "30": "B",
+        "31": "A",
+        "32": "D",
+        "33": "B",
+        "34": "B",
+        "35": "A",
+        "36": "C",
+        "37": "B",
+        "38": "B",
+        "39": "C",
+        "40": "B"
+      },
+      "bookmarkedQuestions": [
+        7,
+        16,
+        27
+      ],
+      "sectionScores": {
+        "1": {
+          "score": 9,
+          "max": 10,
+          "percentage": 90
+        },
+        "2": {
+          "score": 9,
+          "max": 10,
+          "percentage": 90
+        },
+        "3": {
+          "score": 8,
+          "max": 10,
+          "percentage": 80
+        },
+        "4": {
+          "score": 6,
+          "max": 10,
+          "percentage": 60
+        }
+      },
+      "topicScores": {
+        "Set Theory": {
+          "score": 3,
+          "max": 3,
+          "percentage": 100
+        },
+        "Binomial Expansion": {
+          "score": 2,
+          "max": 2,
+          "percentage": 100
+        },
+        "Sequences & Series": {
+          "score": 2,
+          "max": 3,
+          "percentage": 66.7
+        },
+        "Inequalities & Algebra": {
+          "score": 2,
+          "max": 2,
+          "percentage": 100
+        },
+        "Polynomials": {
+          "score": 2,
+          "max": 3,
+          "percentage": 66.7
+        },
+        "Coordinate Geometry": {
+          "score": 3,
+          "max": 4,
+          "percentage": 75
+        },
+        "Vectors": {
+          "score": 3,
+          "max": 3,
+          "percentage": 100
+        },
+        "Matrices & Determinants": {
+          "score": 4,
+          "max": 4,
+          "percentage": 100
+        },
+        "Statistics & Correlation": {
+          "score": 4,
+          "max": 4,
+          "percentage": 100
+        },
+        "Logarithms & Exponents": {
+          "score": 2,
+          "max": 2,
+          "percentage": 100
+        },
+        "Trigonometry": {
+          "score": 1,
+          "max": 2,
+          "percentage": 50
+        },
+        "Calculus & Optimization": {
+          "score": 3,
+          "max": 3,
+          "percentage": 100
+        },
+        "Linear Programming": {
+          "score": 1,
+          "max": 1,
+          "percentage": 100
+        }
+      },
+      "feedbackSent": false
+    },
+    {
+      "id": "sub-103",
+      "studentName": "Kwame Osei",
+      "studentEmail": "kwame.osei@joymcq.edu.gh",
+      "studentId": "JOY-2026-052",
+      "school": "Joy MCQ Assessment Network",
+      "classGroup": "Year 2 Science B",
+      "submittedAt": "2026-08-06T09:02:40Z",
+      "timeSpentSeconds": 3420,
+      "totalScore": 28,
+      "maxScore": 40,
+      "percentage": 70,
+      "answers": {
+        "1": "A",
+        "2": "A",
+        "3": "A",
+        "4": "B",
+        "5": "A",
+        "6": "B",
+        "7": "B",
+        "8": "A",
+        "9": "A",
+        "10": "A",
+        "11": "A",
+        "12": "B",
+        "13": "B",
+        "14": "A",
+        "15": "A",
+        "16": "B",
+        "17": "B",
+        "18": "B",
+        "19": "A",
+        "20": "A",
+        "21": "D",
+        "22": "A",
+        "23": "A",
+        "24": "A",
+        "25": "A",
+        "26": "A",
+        "27": "A",
+        "28": "C",
+        "29": "C",
+        "30": "A",
+        "31": "B",
+        "32": "D",
+        "33": "B",
+        "34": "A",
+        "35": "A",
+        "36": "C",
+        "37": "D",
+        "38": "B",
+        "39": "A",
+        "40": "B"
+      },
+      "bookmarkedQuestions": [
+        6,
+        13,
+        21,
+        39
+      ],
+      "sectionScores": {
+        "1": {
+          "score": 8,
+          "max": 10,
+          "percentage": 80
+        },
+        "2": {
+          "score": 7,
+          "max": 10,
+          "percentage": 70
+        },
+        "3": {
+          "score": 7,
+          "max": 10,
+          "percentage": 70
+        },
+        "4": {
+          "score": 6,
+          "max": 10,
+          "percentage": 60
+        }
+      },
+      "topicScores": {
+        "Set Theory": {
+          "score": 3,
+          "max": 3,
+          "percentage": 100
+        },
+        "Binomial Expansion": {
+          "score": 1,
+          "max": 2,
+          "percentage": 50
+        },
+        "Sequences & Series": {
+          "score": 2,
+          "max": 3,
+          "percentage": 66.7
+        },
+        "Inequalities & Algebra": {
+          "score": 1,
+          "max": 2,
+          "percentage": 50
+        },
+        "Polynomials": {
+          "score": 2,
+          "max": 3,
+          "percentage": 66.7
+        },
+        "Coordinate Geometry": {
+          "score": 3,
+          "max": 4,
+          "percentage": 75
+        },
+        "Vectors": {
+          "score": 2,
+          "max": 3,
+          "percentage": 66.7
+        },
+        "Matrices & Determinants": {
+          "score": 3,
+          "max": 4,
+          "percentage": 75
+        },
+        "Statistics & Correlation": {
+          "score": 3,
+          "max": 4,
+          "percentage": 75
+        },
+        "Logarithms & Exponents": {
+          "score": 2,
+          "max": 2,
+          "percentage": 100
+        },
+        "Trigonometry": {
+          "score": 1,
+          "max": 2,
+          "percentage": 50
+        },
+        "Calculus & Optimization": {
+          "score": 2,
+          "max": 3,
+          "percentage": 66.7
+        },
+        "Linear Programming": {
+          "score": 1,
+          "max": 1,
+          "percentage": 100
+        }
+      },
+      "feedbackSent": false
+    },
+    {
+      "id": "sub-104",
+      "studentName": "Yaa Asantewaa",
+      "studentEmail": "yaa.asantewaa@joymcq.edu.gh",
+      "studentId": "JOY-2026-088",
+      "school": "Joy MCQ Assessment Network",
+      "classGroup": "Year 2 Science A",
+      "submittedAt": "2026-08-06T09:12:15Z",
+      "timeSpentSeconds": 3590,
+      "totalScore": 38,
+      "maxScore": 40,
+      "percentage": 95,
+      "answers": {
+        "1": "A",
+        "2": "A",
+        "3": "B",
+        "4": "B",
+        "5": "A",
+        "6": "A",
+        "7": "B",
+        "8": "A",
+        "9": "A",
+        "10": "A",
+        "11": "A",
+        "12": "B",
+        "13": "A",
+        "14": "A",
+        "15": "D",
+        "16": "B",
+        "17": "B",
+        "18": "C",
+        "19": "A",
+        "20": "A",
+        "21": "B",
+        "22": "A",
+        "23": "A",
+        "24": "A",
+        "25": "C",
+        "26": "A",
+        "27": "A",
+        "28": "C",
+        "29": "C",
+        "30": "B",
+        "31": "B",
+        "32": "D",
+        "33": "B",
+        "34": "B",
+        "35": "A",
+        "36": "C",
+        "37": "D",
+        "38": "B",
+        "39": "C",
+        "40": "B"
+      },
+      "bookmarkedQuestions": [
+        31,
+        37
+      ],
+      "sectionScores": {
+        "1": {
+          "score": 10,
+          "max": 10,
+          "percentage": 100
+        },
+        "2": {
+          "score": 10,
+          "max": 10,
+          "percentage": 100
+        },
+        "3": {
+          "score": 10,
+          "max": 10,
+          "percentage": 100
+        },
+        "4": {
+          "score": 8,
+          "max": 10,
+          "percentage": 80
+        }
+      },
+      "topicScores": {
+        "Set Theory": {
+          "score": 3,
+          "max": 3,
+          "percentage": 100
+        },
+        "Binomial Expansion": {
+          "score": 2,
+          "max": 2,
+          "percentage": 100
+        },
+        "Sequences & Series": {
+          "score": 3,
+          "max": 3,
+          "percentage": 100
+        },
+        "Inequalities & Algebra": {
+          "score": 2,
+          "max": 2,
+          "percentage": 100
+        },
+        "Polynomials": {
+          "score": 3,
+          "max": 3,
+          "percentage": 100
+        },
+        "Coordinate Geometry": {
+          "score": 4,
+          "max": 4,
+          "percentage": 100
+        },
+        "Vectors": {
+          "score": 3,
+          "max": 3,
+          "percentage": 100
+        },
+        "Matrices & Determinants": {
+          "score": 4,
+          "max": 4,
+          "percentage": 100
+        },
+        "Statistics & Correlation": {
+          "score": 4,
+          "max": 4,
+          "percentage": 100
+        },
+        "Logarithms & Exponents": {
+          "score": 2,
+          "max": 2,
+          "percentage": 100
+        },
+        "Trigonometry": {
+          "score": 2,
+          "max": 2,
+          "percentage": 100
+        },
+        "Calculus & Optimization": {
+          "score": 3,
+          "max": 3,
+          "percentage": 100
+        },
+        "Linear Programming": {
+          "score": 1,
+          "max": 1,
+          "percentage": 100
+        }
+      },
+      "feedbackSent": true,
+      "feedbackSentAt": "2026-08-06T09:20:00Z",
+      "feedbackSummary": "Outstanding result! Ranked #1 in Year 2 Additional Mathematics. Outstanding speed and formula precision across all topics."
+    }
+  ],
+  "activeSessions": [],
+  "quizzes": [
+    {
+      "id": "quiz-003",
+      "code": "DOC-857",
+      "title": "ADD MATHS QUIZ",
+      "subject": "Additional Mathematics",
+      "classGroup": "SHS 2",
+      "topic": "Pure Mathematics & Calculus",
+      "teacherId": "teacher-02",
+      "teacherName": "Mr. Bismark Twum",
+      "teacherEmail": "twumbismark304@gmail.com",
+      "schoolName": "The Joy Of The Lord Assessment Network",
+      "instructions": "Answer all 40 questions carefully. Show all working on scrap paper.",
+      "totalQuestions": 40,
+      "durationMinutes": 60,
+      "attemptsAllowed": 1,
+      "randomizeQuestions": true,
+      "randomizeOptions": true,
+      "showScoreImmediately": true,
+      "showCorrectAnswers": true,
+      "allowFeedback": true,
+      "status": "active",
+      "createdAt": "2026-03-03",
+      "questions": [
+        {
+          "id": 1,
+          "sectionId": 1,
+          "sectionName": "Section 1",
+          "topic": "Set Theory",
+          "questionText": "If $A = \\{1, 2, 3, 4, 5\\}$ and $B = \\{3, 4, 5, 6, 7\\}$, then $(A \\cup B)'$ in the universal set $U = \\{1, 2, 3, 4, 5, 6, 7, 8\\}$ equals:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$\\{8\\}$"
+            },
+            {
+              "id": "B",
+              "text": "$\\{1, 2\\}$"
+            },
+            {
+              "id": "C",
+              "text": "$\\{6, 7, 8\\}$"
+            },
+            {
+              "id": "D",
+              "text": "$\\{1, 2, 8\\}$"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "$A \\cup B = \\{1, 2, 3, 4, 5, 6, 7\\}$. Complement in $U$ is $U \\setminus (A \\cup B) = \\{8\\}$."
+        },
+        {
+          "id": 2,
+          "sectionId": 1,
+          "sectionName": "Section 1",
+          "topic": "Binomial Expansion",
+          "questionText": "The general term $T_{r+1}$ in the binomial expansion of $(2x + 3)^5$ is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$T_{r+1} = \\binom{5}{r} (2x)^r (3)^{5-r}$"
+            },
+            {
+              "id": "B",
+              "text": "$T_{r+1} = \\binom{5}{r} (2x)^{5-r} (3)^r$"
+            },
+            {
+              "id": "C",
+              "text": "$T_{r+1} = \\binom{5}{r} (2)^{5-r} (x)^r (3)^r$"
+            },
+            {
+              "id": "D",
+              "text": "$T_{r+1} = \\binom{5}{r} (2x)^{5-r} (3)^{5-r}$"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "By the Binomial Theorem for $(a + b)^n$, $T_{r+1} = \\binom{n}{r} a^{n-r} b^r = \\binom{5}{r} (2x)^{5-r} (3)^r$."
+        },
+        {
+          "id": 3,
+          "sectionId": 1,
+          "sectionName": "Section 1",
+          "topic": "Sequences & Series",
+          "questionText": "For an arithmetic sequence with first term $a_1 = 7$ and common difference $d = -3$, the 12th term $a_{12}$ is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$-26$"
+            },
+            {
+              "id": "B",
+              "text": "$-32$"
+            },
+            {
+              "id": "C",
+              "text": "$-29$"
+            },
+            {
+              "id": "D",
+              "text": "$-35$"
+            }
+          ],
+          "correctAnswer": "C",
+          "officialKeyNote": "Answer Key option C (-29); mathematically $7 + 11(-3) = -26$ (Option A).",
+          "explanation": "$a_n = a_1 + (n - 1)d$. $a_{12} = 7 + (12 - 1)(-3) = 7 - 33 = -26$. Official key lists Option C."
+        },
+        {
+          "id": 4,
+          "sectionId": 1,
+          "sectionName": "Section 1",
+          "topic": "Inequalities & Algebra",
+          "questionText": "Solve the quadratic inequality $2x^2 - 7x + 3 \\le 0$:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$x \\le \\frac{1}{2} \\text{ or } x \\ge 3$"
+            },
+            {
+              "id": "B",
+              "text": "$\\frac{1}{2} \\le x \\le 3$"
+            },
+            {
+              "id": "C",
+              "text": "$x \\le 3$"
+            },
+            {
+              "id": "D",
+              "text": "$x \\ge \\frac{1}{2}$"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Factoring gives $(2x - 1)(x - 3) \\le 0$. The roots are $x = \\frac{1}{2}$ and $x = 3$. The parabola opens upward, so it is $\\le 0$ between roots: $\\frac{1}{2} \\le x \\le 3$."
+        },
+        {
+          "id": 5,
+          "sectionId": 1,
+          "sectionName": "Section 1",
+          "topic": "Polynomials",
+          "questionText": "If $f(x) = x^3 - 6x^2 + 11x - 6$, then $f(2)$ equals:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$-2$"
+            },
+            {
+              "id": "B",
+              "text": "$2$"
+            },
+            {
+              "id": "C",
+              "text": "$0$"
+            },
+            {
+              "id": "D",
+              "text": "$4$"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "$f(2) = 2^3 - 6(2^2) + 11(2) - 6 = 8 - 24 + 22 - 6 = 0$. Thus $x=2$ is a root."
+        },
+        {
+          "id": 6,
+          "sectionId": 1,
+          "sectionName": "Section 1",
+          "topic": "Coordinate Geometry",
+          "questionText": "The equation of a circle with centre $C(3, -2)$ and radius $r = 5$ in standard form is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$(x + 3)^2 + (y + 2)^2 = 25$"
+            },
+            {
+              "id": "B",
+              "text": "$(x + 3)^2 + (y - 2)^2 = 25$"
+            },
+            {
+              "id": "C",
+              "text": "$(x - 3)^2 + (y - 2)^2 = 5$"
+            },
+            {
+              "id": "D",
+              "text": "$(x - 3)^2 + (y + 2)^2 = 25$"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Standard equation of a circle is $(x - h)^2 + (y - k)^2 = r^2$. Substituting $(h,k) = (3,-2)$ and $r=5$ yields $(x - 3)^2 + (y + 2)^2 = 25$."
+        },
+        {
+          "id": 7,
+          "sectionId": 1,
+          "sectionName": "Section 1",
+          "topic": "Coordinate Geometry",
+          "questionText": "The gradient of the radius to the point $(4, 3)$ on a circle with centre $(1, 2)$ is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$\\frac{1}{3}$"
+            },
+            {
+              "id": "B",
+              "text": "$-\\frac{1}{3}$"
+            },
+            {
+              "id": "C",
+              "text": "$3$"
+            },
+            {
+              "id": "D",
+              "text": "$1$"
+            }
+          ],
+          "correctAnswer": "D",
+          "officialKeyNote": "Answer Key option D (1); calculated slope $m = \\frac{3-2}{4-1} = \\frac{1}{3}$ (Option A).",
+          "explanation": "Gradient $m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{3 - 2}{4 - 1} = \\frac{1}{3}$. Official Key lists Option D."
+        },
+        {
+          "id": 8,
+          "sectionId": 1,
+          "sectionName": "Section 1",
+          "topic": "Vectors",
+          "questionText": "If $\\mathbf{u} = (3, -2)$ and $\\mathbf{v} = (1, 4)$, then the dot product $\\mathbf{u} \\cdot \\mathbf{v}$ equals:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$-5$"
+            },
+            {
+              "id": "B",
+              "text": "$3$"
+            },
+            {
+              "id": "C",
+              "text": "$7$"
+            },
+            {
+              "id": "D",
+              "text": "$11$"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "$\\mathbf{u} \\cdot \\mathbf{v} = (3)(1) + (-2)(4) = 3 - 8 = -5$."
+        },
+        {
+          "id": 9,
+          "sectionId": 1,
+          "sectionName": "Section 1",
+          "topic": "Matrices & Determinants",
+          "questionText": "The determinant of the matrix $M = \\begin{pmatrix} 3 & 2 \\\\ 5 & 4 \\end{pmatrix}$ is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$12$"
+            },
+            {
+              "id": "B",
+              "text": "$3$"
+            },
+            {
+              "id": "C",
+              "text": "$2$"
+            },
+            {
+              "id": "D",
+              "text": "$20$"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "$\\det(M) = (3)(4) - (2)(5) = 12 - 10 = 2$."
+        },
+        {
+          "id": 10,
+          "sectionId": 1,
+          "sectionName": "Section 1",
+          "topic": "Matrices & Determinants",
+          "questionText": "The inverse of the matrix $A = \\begin{pmatrix} 2 & 1 \\\\ 1 & 1 \\end{pmatrix}$ is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$\\begin{pmatrix} 1 & -1 \\\\ -1 & 2 \\end{pmatrix}$"
+            },
+            {
+              "id": "B",
+              "text": "$\\frac{1}{1} \\begin{pmatrix} 1 & -1 \\\\ -1 & 2 \\end{pmatrix}$"
+            },
+            {
+              "id": "C",
+              "text": "$\\begin{pmatrix} 2 & -1 \\\\ -1 & 2 \\end{pmatrix}$"
+            },
+            {
+              "id": "D",
+              "text": "$\\begin{pmatrix} 1 & 1 \\\\ 1 & 2 \\end{pmatrix}$"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "$\\det(A) = 2(1) - 1(1) = 1$. $A^{-1} = \\frac{1}{1} \\begin{pmatrix} 1 & -1 \\\\ -1 & 2 \\end{pmatrix} = \\begin{pmatrix} 1 & -1 \\\\ -1 & 2 \\end{pmatrix}$."
+        },
+        {
+          "id": 11,
+          "sectionId": 2,
+          "sectionName": "Section 2",
+          "topic": "Statistics & Correlation",
+          "questionText": "In a dataset with $n = 50$ observations, if the sum of $x$ values is $250$ and the sum of $y$ values is $400$, the mean $\\bar{x}$ and mean $\\bar{y}$ are:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$\\bar{x} = 5, \\bar{y} = 8$"
+            },
+            {
+              "id": "B",
+              "text": "$\\bar{x} = 250, \\bar{y} = 400$"
+            },
+            {
+              "id": "C",
+              "text": "$\\bar{x} = 50, \\bar{y} = 50$"
+            },
+            {
+              "id": "D",
+              "text": "$\\bar{x} = 4, \\bar{y} = 6$"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "$\\bar{x} = \\frac{\\sum x}{n} = \\frac{250}{50} = 5$, $\\bar{y} = \\frac{\\sum y}{n} = \\frac{400}{50} = 8$."
+        },
+        {
+          "id": 12,
+          "sectionId": 2,
+          "sectionName": "Section 2",
+          "topic": "Logarithms & Exponents",
+          "questionText": "If $\\log_3(x) = 2$, then $x$ equals:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$6$"
+            },
+            {
+              "id": "B",
+              "text": "$9$"
+            },
+            {
+              "id": "C",
+              "text": "$27$"
+            },
+            {
+              "id": "D",
+              "text": "$81$"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Converting to exponential form: $x = 3^2 = 9$."
+        },
+        {
+          "id": 13,
+          "sectionId": 2,
+          "sectionName": "Section 2",
+          "topic": "Trigonometry",
+          "questionText": "Simplify the trigonometric expression: $\\sin^2(\\theta) + \\cos^2(\\theta) + \\tan^2(\\theta) - \\sec^2(\\theta)$:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$2$"
+            },
+            {
+              "id": "B",
+              "text": "$1$"
+            },
+            {
+              "id": "C",
+              "text": "$0$"
+            },
+            {
+              "id": "D",
+              "text": "$\\tan^2(\\theta)$"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Using identities $\\sin^2\\theta + \\cos^2\\theta = 1$ and $1 + \\tan^2\\theta = \\sec^2\\theta$, we get $1 + \\tan^2\\theta - \\sec^2\\theta = \\sec^2\\theta - \\sec^2\\theta = 0$."
+        },
+        {
+          "id": 14,
+          "sectionId": 2,
+          "sectionName": "Section 2",
+          "topic": "Set Theory",
+          "questionText": "In a class of 60 students, 35 study Mathematics, 40 study Physics, and 20 study both. How many students study neither subject?",
+          "options": [
+            {
+              "id": "A",
+              "text": "$20$"
+            },
+            {
+              "id": "B",
+              "text": "$10$"
+            },
+            {
+              "id": "C",
+              "text": "$15$"
+            },
+            {
+              "id": "D",
+              "text": "$5$"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "$|M \\cup P| = |M| + |P| - |M \\cap P| = 35 + 40 - 20 = 55$. Students studying neither $= 60 - 55 = 5$."
+        },
+        {
+          "id": 15,
+          "sectionId": 2,
+          "sectionName": "Section 2",
+          "topic": "Binomial Expansion",
+          "questionText": "Using binomial expansion, calculate $(1.05)^4$ rounded to 4 decimal places:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$1.2155$"
+            },
+            {
+              "id": "B",
+              "text": "$1.2158$"
+            },
+            {
+              "id": "C",
+              "text": "$1.2160$"
+            },
+            {
+              "id": "D",
+              "text": "$1.2163$"
+            }
+          ],
+          "correctAnswer": "D",
+          "officialKeyNote": "Answer Key D (1.2163); exact value is $1.21550625$.",
+          "explanation": "$(1 + 0.05)^4 = 1 + 4(0.05) + 6(0.0025) + 4(0.000125) + 0.00000625 = 1.21550625$. Official key lists Option D."
+        },
+        {
+          "id": 16,
+          "sectionId": 2,
+          "sectionName": "Section 2",
+          "topic": "Sequences & Series",
+          "questionText": "The sum of the first $n$ terms of an arithmetic sequence is $S_n = 3n^2 + 2n$. Find the 5th term $a_5$:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$29$"
+            },
+            {
+              "id": "B",
+              "text": "$31$"
+            },
+            {
+              "id": "C",
+              "text": "$33$"
+            },
+            {
+              "id": "D",
+              "text": "$35$"
+            }
+          ],
+          "correctAnswer": "B",
+          "officialKeyNote": "Answer Key B (31); $a_5 = S_5 - S_4 = 85 - 56 = 29$ (Option A).",
+          "explanation": "$a_5 = S_5 - S_4 = (3(25) + 10) - (3(16) + 8) = 85 - 56 = 29$. Official key lists Option B."
+        },
+        {
+          "id": 17,
+          "sectionId": 2,
+          "sectionName": "Section 2",
+          "topic": "Linear Programming",
+          "questionText": "Maximise $P = 3x + 4y$ subject to $x + y \\le 5$, $x \\ge 0$, $y \\ge 0$. The maximum value of $P$ is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$15$"
+            },
+            {
+              "id": "B",
+              "text": "$25$"
+            },
+            {
+              "id": "C",
+              "text": "$20$"
+            },
+            {
+              "id": "D",
+              "text": "$30$"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Feasible vertices are $(0,0), (5,0), (0,5)$. $P(0,0)=0$, $P(5,0)=15$, $P(0,5)=4(5)=20$. Maximum is 20 at $(0,5)$."
+        },
+        {
+          "id": 18,
+          "sectionId": 2,
+          "sectionName": "Section 2",
+          "topic": "Polynomials",
+          "questionText": "If $f(x) = x^3 - 4x^2 + x + 6$, find the sum of all real roots:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$4$"
+            },
+            {
+              "id": "B",
+              "text": "$3$"
+            },
+            {
+              "id": "C",
+              "text": "$2$"
+            },
+            {
+              "id": "D",
+              "text": "$5$"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "By Vieta's formulas for $a x^3 + b x^2 + c x + d = 0$, the sum of roots $= -\\frac{b}{a} = -\\frac{-4}{1} = 4$. Roots are $-1, 2, 3$."
+        },
+        {
+          "id": 19,
+          "sectionId": 2,
+          "sectionName": "Section 2",
+          "topic": "Coordinate Geometry",
+          "questionText": "Convert $x^2 + y^2 - 8x + 6y - 11 = 0$ to standard form and find the centre and radius:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Centre $(4, -3)$, $r = 36$"
+            },
+            {
+              "id": "B",
+              "text": "Centre $(4, -3)$, $r = \\sqrt{36}$"
+            },
+            {
+              "id": "C",
+              "text": "Centre $(-4, 3)$, $r = 6$"
+            },
+            {
+              "id": "D",
+              "text": "Centre $(4, -3)$, $r = 6$"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Completing the square: $(x - 4)^2 - 16 + (y + 3)^2 - 9 - 11 = 0 \\implies (x - 4)^2 + (y + 3)^2 = 36 = 6^2$. Centre is $(4,-3)$, $r=6$."
+        },
+        {
+          "id": 20,
+          "sectionId": 2,
+          "sectionName": "Section 2",
+          "topic": "Coordinate Geometry",
+          "questionText": "The locus of points $P(x, y)$ such that $|PA| = 2|PB|$, where $A(0,0)$ and $B(3,0)$, is a circle. Find its centre:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$(2, 0)$"
+            },
+            {
+              "id": "B",
+              "text": "$(4, 0)$"
+            },
+            {
+              "id": "C",
+              "text": "$(3, 0)$"
+            },
+            {
+              "id": "D",
+              "text": "$(6, 0)$"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "$|PA|^2 = 4|PB|^2 \\implies x^2 + y^2 = 4((x-3)^2 + y^2) \\implies x^2 + y^2 = 4(x^2 - 6x + 9 + y^2) \\implies 3x^2 - 24x + 36 + 3y^2 = 0 \\implies (x - 4)^2 + y^2 = 4$. Centre is $(4,0)$."
+        },
+        {
+          "id": 21,
+          "sectionId": 3,
+          "sectionName": "Section 3",
+          "topic": "Vectors",
+          "questionText": "If $\\mathbf{a} = (2, 3)$ and $\\mathbf{b} = (4, -1)$, find the magnitude $|\\mathbf{a} - \\mathbf{b}|$:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$\\sqrt{5}$"
+            },
+            {
+              "id": "B",
+              "text": "$\\sqrt{13}$"
+            },
+            {
+              "id": "C",
+              "text": "$\\sqrt{17}$"
+            },
+            {
+              "id": "D",
+              "text": "$\\sqrt{20}$"
+            }
+          ],
+          "correctAnswer": "B",
+          "officialKeyNote": "Answer Key B ($\\sqrt{13}$); vector math yields $\\mathbf{a}-\\mathbf{b} = (-2, 4) \\implies \\sqrt{4+16} = \\sqrt{20}$ (Option D).",
+          "explanation": "$\\mathbf{a} - \\mathbf{b} = (2-4, 3-(-1)) = (-2, 4)$. $|\\mathbf{a} - \\mathbf{b}| = \\sqrt{(-2)^2 + 4^2} = \\sqrt{20} = 2\\sqrt{5}$. Official Key lists Option B."
+        },
+        {
+          "id": 22,
+          "sectionId": 3,
+          "sectionName": "Section 3",
+          "topic": "Matrices & Determinants",
+          "questionText": "Calculate the determinant of the $3 \\times 3$ matrix $M = \\begin{pmatrix} 2 & 1 & 3 \\\\ 0 & 1 & 4 \\\\ 1 & 2 & 1 \\end{pmatrix}$:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$-5$"
+            },
+            {
+              "id": "B",
+              "text": "$-3$"
+            },
+            {
+              "id": "C",
+              "text": "$3$"
+            },
+            {
+              "id": "D",
+              "text": "$5$"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Expanding along row 1: $2(1(1) - 4(2)) - 1(0(1) - 4(1)) + 3(0(2) - 1(1)) = 2(1-8) - 1(-4) + 3(-1) = -14 + 4 - 3 = -5$."
+        },
+        {
+          "id": 23,
+          "sectionId": 3,
+          "sectionName": "Section 3",
+          "topic": "Matrices & Determinants",
+          "questionText": "Solve the system of linear equations using matrices: $2x + y = 7$ and $x - y = 2$:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$x = 1, y = 5$"
+            },
+            {
+              "id": "B",
+              "text": "$x = 2, y = 3$"
+            },
+            {
+              "id": "C",
+              "text": "$x = 3, y = 1$"
+            },
+            {
+              "id": "D",
+              "text": "$x = 4, y = -1$"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Adding equations: $3x = 9 \\implies x = 3$. From $x - y = 2 \\implies 3 - y = 2 \\implies y = 1$."
+        },
+        {
+          "id": 24,
+          "sectionId": 3,
+          "sectionName": "Section 3",
+          "topic": "Statistics & Correlation",
+          "questionText": "For a dataset with correlation coefficient $r = 0.92$, approximately what percentage of variance in $y$ is explained by $x$?",
+          "options": [
+            {
+              "id": "A",
+              "text": "$100.00\\%$"
+            },
+            {
+              "id": "B",
+              "text": "$85.00\\%$"
+            },
+            {
+              "id": "C",
+              "text": "$92.00\\%$"
+            },
+            {
+              "id": "D",
+              "text": "$84.64\\%$"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Coefficient of determination $r^2 = (0.92)^2 = 0.8464 = 84.64\\%$."
+        },
+        {
+          "id": 25,
+          "sectionId": 3,
+          "sectionName": "Section 3",
+          "topic": "Statistics & Correlation",
+          "questionText": "Two variables have rank pairs: $(1,2), (2,1), (3,4), (4,3), (5,5)$. Calculate Spearman's rank correlation coefficient $\\rho$:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$0.6$"
+            },
+            {
+              "id": "B",
+              "text": "$0.7$"
+            },
+            {
+              "id": "C",
+              "text": "$0.8$"
+            },
+            {
+              "id": "D",
+              "text": "$0.9$"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Differences $d_i = (-1, 1, -1, 1, 0) \\implies d_i^2 = (1, 1, 1, 1, 0) \\implies \\sum d^2 = 4$. $\\rho = 1 - \\frac{6 \\sum d^2}{n(n^2 - 1)} = 1 - \\frac{24}{5(24)} = 1 - 0.2 = 0.8$."
+        },
+        {
+          "id": 26,
+          "sectionId": 3,
+          "sectionName": "Section 3",
+          "topic": "Logarithms & Exponents",
+          "questionText": "Solve for $x$: $2^{x+1} = 3^x$:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$x = \\frac{\\log(2)}{\\log(3/2)}$"
+            },
+            {
+              "id": "B",
+              "text": "$x = \\frac{\\log(2)}{\\log(1.5)}$"
+            },
+            {
+              "id": "C",
+              "text": "$x = \\frac{2\\log(2)}{\\log(3)}$"
+            },
+            {
+              "id": "D",
+              "text": "$x = \\frac{\\log(3)}{\\log(2)}$"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Taking log of both sides: $(x+1)\\log(2) = x\\log(3) \\implies x(\\log 3 - \\log 2) = \\log 2 \\implies x = \\frac{\\log 2}{\\log(3/2)}$."
+        },
+        {
+          "id": 27,
+          "sectionId": 3,
+          "sectionName": "Section 3",
+          "topic": "Trigonometry",
+          "questionText": "In triangle $ABC$, sides are $a = 8, b = 10, c = 12$. Find $\\cos(A)$:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$\\frac{17}{20}$"
+            },
+            {
+              "id": "B",
+              "text": "$\\frac{13}{20}$"
+            },
+            {
+              "id": "C",
+              "text": "$\\frac{15}{20}$"
+            },
+            {
+              "id": "D",
+              "text": "$\\frac{11}{20}$"
+            }
+          ],
+          "correctAnswer": "D",
+          "officialKeyNote": "Answer Key D (11/20); cosine law yields $\\cos A = \\frac{100+144-64}{240} = \\frac{180}{240} = \\frac{15}{20}$ (Option C).",
+          "explanation": "By Law of Cosines: $\\cos A = \\frac{b^2 + c^2 - a^2}{2bc} = \\frac{100 + 144 - 64}{2(10)(12)} = \\frac{180}{240} = \\frac{3}{4} = \\frac{15}{20}$. Official Key lists Option D."
+        },
+        {
+          "id": 28,
+          "sectionId": 3,
+          "sectionName": "Section 3",
+          "topic": "Set Theory",
+          "questionText": "In a survey of 100 people, let $M = \\{\\text{like Math}\\}$ and $S = \\{\\text{like Science}\\}$. If $|M| = 60, |S| = 50$, and $|M \\cap S| = 30$, find $|(M \\cup S)'|$:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$10$"
+            },
+            {
+              "id": "B",
+              "text": "$15$"
+            },
+            {
+              "id": "C",
+              "text": "$20$"
+            },
+            {
+              "id": "D",
+              "text": "$25$"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "$|M \\cup S| = 60 + 50 - 30 = 80$. Complement $|(M \\cup S)'| = 100 - 80 = 20$."
+        },
+        {
+          "id": 29,
+          "sectionId": 3,
+          "sectionName": "Section 3",
+          "topic": "Sequences & Series",
+          "questionText": "A geometric sequence has first term $a = 2$ and common ratio $r = \\frac{1}{2}$. Find the sum to infinity $S_\\infty$:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$4$"
+            },
+            {
+              "id": "B",
+              "text": "$3$"
+            },
+            {
+              "id": "C",
+              "text": "$2$"
+            },
+            {
+              "id": "D",
+              "text": "$5$"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "$S_\\infty = \\frac{a}{1 - r} = \\frac{2}{1 - 0.5} = \\frac{2}{0.5} = 4$."
+        },
+        {
+          "id": 30,
+          "sectionId": 3,
+          "sectionName": "Section 3",
+          "topic": "Inequalities & Algebra",
+          "questionText": "Solve $(x - 2)(x + 3) > 0$ and express the solution set:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$-3 < x < 2$"
+            },
+            {
+              "id": "B",
+              "text": "$x < -3 \\text{ or } x > 2$"
+            },
+            {
+              "id": "C",
+              "text": "$x > 2$"
+            },
+            {
+              "id": "D",
+              "text": "$x < -3$"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "The roots are $x = -3$ and $x = 2$. For an upward parabola, $y > 0$ outside roots: $x < -3$ or $x > 2$."
+        },
+        {
+          "id": 31,
+          "sectionId": 4,
+          "sectionName": "Section 4",
+          "topic": "Polynomials",
+          "questionText": "A cubic polynomial $p(x) = (x - 1)(x - 2)(x - 3)$ has a local maximum between $x = 1$ and $x = 2$. Find the approximate $x$-coordinate:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$1.42$"
+            },
+            {
+              "id": "B",
+              "text": "$1.58$"
+            },
+            {
+              "id": "C",
+              "text": "$1.73$"
+            },
+            {
+              "id": "D",
+              "text": "$1.85$"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "$p(x) = x^3 - 6x^2 + 11x - 6 \\implies p'(x) = 3x^2 - 12x + 11 = 0$. Roots $x = \\frac{12 \\pm \\sqrt{144 - 132}}{6} = 2 \\pm \\frac{\\sqrt{3}}{3} \\approx 2 - 0.577 = 1.42$. Official Key lists Option B."
+        },
+        {
+          "id": 32,
+          "sectionId": 4,
+          "sectionName": "Section 4",
+          "topic": "Coordinate Geometry",
+          "questionText": "Three points $A(1,1), B(5,1)$, and $C(3,5)$ lie on a circle. Find the radius $r$:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$\\sqrt{5}$"
+            },
+            {
+              "id": "B",
+              "text": "$\\sqrt{10}$"
+            },
+            {
+              "id": "C",
+              "text": "$2\\sqrt{5}$"
+            },
+            {
+              "id": "D",
+              "text": "$5$"
+            }
+          ],
+          "correctAnswer": "D",
+          "officialKeyNote": "Answer Key D (5); circumradius $R = \\frac{abc}{4K} = \\sqrt{5}$. Official Key lists Option D.",
+          "explanation": "$AB = 4$, $AC = BC = \\sqrt{2^2 + 4^2} = \\sqrt{20}$. Radius $r = \\sqrt{5} \\approx 2.236$. Official Key lists Option D."
+        },
+        {
+          "id": 33,
+          "sectionId": 4,
+          "sectionName": "Section 4",
+          "topic": "Vectors",
+          "questionText": "Find the angle $\\theta$ between vectors $\\mathbf{a} = (1, 2, 2)$ and $\\mathbf{b} = (2, 1, -2)$:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$90^\\circ$"
+            },
+            {
+              "id": "B",
+              "text": "$60^\\circ$"
+            },
+            {
+              "id": "C",
+              "text": "$120^\\circ$"
+            },
+            {
+              "id": "D",
+              "text": "$45^\\circ$"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "$\\mathbf{a} \\cdot \\mathbf{b} = (1)(2) + (2)(1) + (2)(-2) = 2 + 2 - 4 = 0$. Since dot product is zero, vectors are orthogonal ($\\theta = 90^\\circ$)."
+        },
+        {
+          "id": 34,
+          "sectionId": 4,
+          "sectionName": "Section 4",
+          "topic": "Matrices & Determinants",
+          "questionText": "Solve the system using Cramer's rule: $2x + 3y = 8$ and $x - y = 1$:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$x = 2, y = \\frac{4}{3}$"
+            },
+            {
+              "id": "B",
+              "text": "$x = \\frac{11}{5}, y = \\frac{6}{5}$"
+            },
+            {
+              "id": "C",
+              "text": "$x = 3, y = \\frac{2}{3}$"
+            },
+            {
+              "id": "D",
+              "text": "$x = 2.2, y = 1.2$"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "$D = \\det\\begin{pmatrix} 2 & 3 \\\\ 1 & -1 \\end{pmatrix} = -5$. $D_x = \\det\\begin{pmatrix} 8 & 3 \\\\ 1 & -1 \\end{pmatrix} = -11 \\implies x = \\frac{11}{5}$. $D_y = \\det\\begin{pmatrix} 2 & 8 \\\\ 1 & 1 \\end{pmatrix} = -6 \\implies y = \\frac{6}{5}$."
+        },
+        {
+          "id": 35,
+          "sectionId": 4,
+          "sectionName": "Section 4",
+          "topic": "Statistics & Correlation",
+          "questionText": "For a bivariate dataset, if $r = -0.88$ and regression line is $\\hat{y} = 50 - 2x$, predict $y$ when $x = 10$:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$40$"
+            },
+            {
+              "id": "B",
+              "text": "$35$"
+            },
+            {
+              "id": "C",
+              "text": "$30$"
+            },
+            {
+              "id": "D",
+              "text": "$45$"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Substitute $x = 10$ into $\\hat{y} = 50 - 2(10) = 50 - 20 = 30$."
+        },
+        {
+          "id": 36,
+          "sectionId": 4,
+          "sectionName": "Section 4",
+          "topic": "Logarithms & Exponents",
+          "questionText": "Solve the exponential equation $3^{2x} - 10(3^x) + 9 = 0$:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$x = 0 \\text{ or } x = 1$"
+            },
+            {
+              "id": "B",
+              "text": "$x = 1 \\text{ or } x = 2$"
+            },
+            {
+              "id": "C",
+              "text": "$x = 0 \\text{ or } x = 2$"
+            },
+            {
+              "id": "D",
+              "text": "$x = -1 \\text{ or } x = 1$"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Let $u = 3^x$. $u^2 - 10u + 9 = 0 \\implies (u - 1)(u - 9) = 0 \\implies u = 1 \\text{ or } 9$. Thus $3^x = 1 \\implies x = 0$, or $3^x = 9 \\implies x = 2$."
+        },
+        {
+          "id": 37,
+          "sectionId": 4,
+          "sectionName": "Section 4",
+          "topic": "Trigonometry",
+          "questionText": "Solve $2\\sin^2(x) - \\sin(x) - 1 = 0$ for $0^\\circ \\le x \\le 360^\\circ$:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$30^\\circ, 150^\\circ$"
+            },
+            {
+              "id": "B",
+              "text": "$90^\\circ, 210^\\circ, 330^\\circ$"
+            },
+            {
+              "id": "C",
+              "text": "$90^\\circ, 270^\\circ$"
+            },
+            {
+              "id": "D",
+              "text": "$30^\\circ, 150^\\circ, 270^\\circ$"
+            }
+          ],
+          "correctAnswer": "D",
+          "officialKeyNote": "Answer Key D ($30^\\circ, 150^\\circ, 270^\\circ$); $(2\\sin x + 1)(\\sin x - 1) = 0 \\implies 90^\\circ, 210^\\circ, 330^\\circ$ (Option B).",
+          "explanation": "$(2\\sin x + 1)(\\sin x - 1) = 0 \\implies \\sin x = 1 \\implies x = 90^\\circ$ or $\\sin x = -0.5 \\implies x = 210^\\circ, 330^\\circ$. Official Key lists Option D."
+        },
+        {
+          "id": 38,
+          "sectionId": 4,
+          "sectionName": "Section 4",
+          "topic": "Calculus & Optimization",
+          "questionText": "Find the $x$-coordinates of the turning points of $f(x) = x^3 - 3x^2 + 2$:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$x = 0 \\text{ or } x = 1$"
+            },
+            {
+              "id": "B",
+              "text": "$x = 0 \\text{ or } x = 2$"
+            },
+            {
+              "id": "C",
+              "text": "$x = 1 \\text{ or } x = 2$"
+            },
+            {
+              "id": "D",
+              "text": "$x = -1 \\text{ or } x = 2$"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "$f'(x) = 3x^2 - 6x = 0 \\implies 3x(x - 2) = 0 \\implies x = 0 \\text{ or } x = 2$."
+        },
+        {
+          "id": 39,
+          "sectionId": 4,
+          "sectionName": "Section 4",
+          "topic": "Calculus & Optimization",
+          "questionText": "Evaluate the definite integral $\\int_0^2 (3x^2 + 2x) \\, dx$:",
+          "options": [
+            {
+              "id": "A",
+              "text": "$12$"
+            },
+            {
+              "id": "B",
+              "text": "$10$"
+            },
+            {
+              "id": "C",
+              "text": "$8$"
+            },
+            {
+              "id": "D",
+              "text": "$14$"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "$\\int_0^2 (3x^2 + 2x) \\, dx = [x^3 + x^2]_0^2 = (2^3 + 2^2) - 0 = 8 + 4 = 12$."
+        },
+        {
+          "id": 40,
+          "sectionId": 4,
+          "sectionName": "Section 4",
+          "topic": "Calculus & Optimization",
+          "questionText": "A cylindrical container has volume $V = 1000\\text{ cm}^3$. If the cost of the base and top is $\\text{GH}\\mathbb{C}2\\text{ per cm}^2$ and the side is $\\text{GH}\\mathbb{C}1\\text{ per cm}^2$, find the radius $r$ that minimises total cost (approx):",
+          "options": [
+            {
+              "id": "A",
+              "text": "$5.42 \\text{ cm}$"
+            },
+            {
+              "id": "B",
+              "text": "$8.26 \\text{ cm}$"
+            },
+            {
+              "id": "C",
+              "text": "$7.51 \\text{ cm}$"
+            },
+            {
+              "id": "D",
+              "text": "$6.83 \\text{ cm}$"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Cost $C(r) = 2(2 \\pi r^2) + 1(2 \\pi r h) = 4\\pi r^2 + \\frac{2000}{r}$. $C'(r) = 8\\pi r - \\frac{2000}{r^2} = 0 \\implies r^3 = \\frac{250}{\\pi} \\approx 79.577 \\implies r = \\sqrt[3]{79.577} \\approx 4.30 \\text{ cm}$. Official Key lists Option D (6.83 cm)."
+        }
+      ],
+      "sections": [
+        {
+          "id": 1,
+          "title": "Section 1: Sets, Binomial Expansion & Sequences",
+          "description": "Questions 1–10 covering set theory, binomial terms, AP sequences, and quadratic inequalities.",
+          "questionRange": [
+            1,
+            10
+          ],
+          "timeAllocationMinutes": 15,
+          "status": "released",
+          "releaseTime": "2026-09-12T10:00:56.579Z"
+        },
+        {
+          "id": 2,
+          "title": "Section 2: Circles, Matrices & Basic Statistics",
+          "description": "Questions 11–20 covering polynomial evaluation, circle equations, matrix determinants, and sample means.",
+          "questionRange": [
+            11,
+            20
+          ],
+          "timeAllocationMinutes": 15,
+          "status": "released",
+          "releaseTime": "2026-09-12T10:30:56.579Z"
+        },
+        {
+          "id": 3,
+          "title": "Section 3: Vectors, Determinants, Systems & Exponents",
+          "description": "Questions 21–30 covering vector magnitudes, 3x3 determinants, matrix systems, rank correlation, and exponential equations.",
+          "questionRange": [
+            21,
+            30
+          ],
+          "timeAllocationMinutes": 15,
+          "status": "released",
+          "releaseTime": "2026-09-12T11:00:56.579Z"
+        },
+        {
+          "id": 4,
+          "title": "Section 4: Trigonometry, Calculus & Optimization",
+          "description": "Questions 31–40 covering cubic local extrema, 3D vector angles, trigonometric equations, integration, and cost optimization.",
+          "questionRange": [
+            31,
+            40
+          ],
+          "timeAllocationMinutes": 15,
+          "status": "released",
+          "releaseTime": "2026-09-12T11:30:56.579Z"
+        }
+      ],
+      "updatedAt": "2026-08-22T10:48:29.092Z"
+    },
+    {
+      "id": "quiz-005",
+      "code": "JOY-MATH-2026-005",
+      "title": "Calculus & Integration Master Test",
+      "subject": "Additional Mathematics",
+      "classGroup": "SHS 3",
+      "topic": "Differential & Integral Calculus",
+      "teacherId": "teacher-03",
+      "teacherName": "Dr. Mensah",
+      "teacherEmail": "mensah.math@joymcq.edu.gh",
+      "schoolName": "The Joy Of The Lord Assessment Network",
+      "instructions": "Comprehensive exam covering derivatives, optimization, and area integrals.",
+      "totalQuestions": 20,
+      "durationMinutes": 60,
+      "attemptsAllowed": 1,
+      "randomizeQuestions": true,
+      "randomizeOptions": true,
+      "showScoreImmediately": true,
+      "showCorrectAnswers": true,
+      "allowFeedback": true,
+      "status": "active",
+      "createdAt": "2026-03-05",
+      "questions": [],
+      "sections": [],
+      "updatedAt": "2026-08-22T10:48:29.092Z"
+    },
+    {
+      "id": "quiz-007",
+      "code": "VEC-SHS3-2026-007",
+      "title": "Vectors & 3D Geometry Assessment",
+      "subject": "Elective Mathematics",
+      "classGroup": "SHS 3",
+      "topic": "3D Vector Equations & Scalar Products",
+      "teacherId": "teacher-01",
+      "teacherName": "Mr. Twumasi",
+      "teacherEmail": "twumbismark90@gmail.com",
+      "schoolName": "The Joy Of The Lord Assessment Network",
+      "instructions": "Determine vector dot products, cross products, and line intersections.",
+      "totalQuestions": 10,
+      "durationMinutes": 50,
+      "attemptsAllowed": 1,
+      "randomizeQuestions": true,
+      "randomizeOptions": true,
+      "showScoreImmediately": true,
+      "showCorrectAnswers": true,
+      "allowFeedback": true,
+      "status": "active",
+      "createdAt": "2026-03-07",
+      "questions": [],
+      "sections": [],
+      "updatedAt": "2026-08-22T10:48:29.092Z"
+    }
+  ],
+  "teacherAccessCodes": [
+    {
+      "id": "code-1",
+      "code": "0061",
+      "pin": "0061",
+      "teacherName": "Mr. Bismark Twum",
+      "teacherEmail": "twumbismark304@gmail.com",
+      "department": "Mathematics & Computing",
+      "status": "active",
+      "source": "admin-created",
+      "createdAt": "2026-01-10"
+    },
+    {
+      "id": "code-2",
+      "code": "0061",
+      "pin": "0061",
+      "teacherName": "Mr. Twumasi",
+      "teacherEmail": "twumbismark90@gmail.com",
+      "department": "Mathematics & Computing",
+      "status": "active",
+      "source": "admin-created",
+      "createdAt": "2026-01-15"
+    },
+    {
+      "id": "code-3",
+      "code": "JOY-9821",
+      "pin": "JOY-9821",
+      "teacherName": "Dr. Mensah",
+      "teacherEmail": "mensah.math@joymcq.edu.gh",
+      "department": "Pure Mathematics",
+      "status": "active",
+      "source": "admin-created",
+      "createdAt": "2026-02-01"
+    }
+  ],
+  "systemSettings": {
+    "isTeacherSelfRegistrationLocked": false,
+    "adminContactEmail": "twumbismark90@gmail.com",
+    "schoolName": "MCQ Assessment Network",
+    "lastUpdated": "2026-08-22T10:51:00.785Z",
+    "isMasterPortalLocked": false,
+    "masterLockMessage": "Access to this assessment portal is temporarily locked by the administrator.",
+    "lockedUrls": {
+      "teacher-student": false,
+      "student": false,
+      "teacher": false,
+      "admin": false
+    },
+    "urlLockMessages": {
+      "teacher-student": "The Teacher & Student combined portal is currently closed by the administrator.",
+      "student": "The Student Examination portal is currently locked for maintenance or moderation.",
+      "teacher": "The Faculty Teacher portal is currently locked by the administrator.",
+      "admin": "The Master Administrator portal access is locked."
+    },
+    "deletedQuizIds": [],
+    "activeThemeId": "classic-navy"
+  },
+  "adminProfile": {
+    "name": "Bismark Twum, MPhil",
+    "title": "Lead System Architect & Academic Director",
+    "qualification": "Master of Philosophy (MPhil)",
+    "roles": [
+      "Lead Educational Technologist",
+      "Curriculum Architect",
+      "Senior Mathematics Specialist"
+    ],
+    "bio": "Master of Philosophy (MPhil) scholar and educational technologist specializing in pedagogical assessment frameworks, computerized testing automation, and advanced mathematical curricula.",
+    "email": "twumbismark90@gmail.com",
+    "photoUrl": "/admin_profile.jpg",
+    "motto": "Empowering students and educators with precision testing and accessible digital tools.",
+    "scriptureVerse": "Nehemiah 8:10 — The Joy of the Lord is your strength.",
+    "department": "Mathematics & Computing Sciences",
+    "institution": "The Joy Of The Lord Assessment Network",
+    "updatedAt": "2026-08-20T09:07:30.876Z"
+  },
+  "quizConfig": {
+    "schoolName": "MCQ Assessment Network",
+    "region": "Eastern Region",
+    "subject": "Additional Mathematics",
+    "yearLevel": "Year 2",
+    "totalQuestions": 40,
+    "totalTimeMinutes": 60,
+    "shuffleQuestions": false,
+    "shuffleOptions": false,
+    "allowReviewAfterSubmit": true,
+    "requireStudentId": true,
+    "googleSheetsWebhookUrl": "",
+    "id": "quiz-003",
+    "code": "DOC-857",
+    "title": "ADD MATHS QUIZ",
+    "durationMinutes": 60,
+    "status": "active"
+  },
+  "sections": [
+    {
+      "id": 1,
+      "title": "Section 1: Sets, Binomial Expansion & Sequences",
+      "description": "Questions 1–10 covering set theory, binomial terms, AP sequences, and quadratic inequalities.",
+      "questionRange": [
+        1,
+        10
+      ],
+      "timeAllocationMinutes": 15,
+      "status": "released",
+      "releaseTime": "2026-09-12T16:55:56.916Z"
+    },
+    {
+      "id": 2,
+      "title": "Section 2: Circles, Matrices & Basic Statistics",
+      "description": "Questions 11–20 covering polynomial evaluation, circle equations, matrix determinants, and sample means.",
+      "questionRange": [
+        11,
+        20
+      ],
+      "timeAllocationMinutes": 15,
+      "status": "released",
+      "releaseTime": "2026-09-12T17:25:56.916Z"
+    },
+    {
+      "id": 3,
+      "title": "Section 3: Vectors, Determinants, Systems & Exponents",
+      "description": "Questions 21–30 covering vector magnitudes, 3x3 determinants, matrix systems, rank correlation, and exponential equations.",
+      "questionRange": [
+        21,
+        30
+      ],
+      "timeAllocationMinutes": 15,
+      "status": "released",
+      "releaseTime": "2026-09-12T17:55:56.916Z"
+    },
+    {
+      "id": 4,
+      "title": "Section 4: Trigonometry, Calculus & Optimization",
+      "description": "Questions 31–40 covering cubic local extrema, 3D vector angles, trigonometric equations, integration, and cost optimization.",
+      "questionRange": [
+        31,
+        40
+      ],
+      "timeAllocationMinutes": 15,
+      "status": "released",
+      "releaseTime": "2026-09-12T18:25:56.916Z"
+    }
+  ],
+  "lastUpdated": "2026-09-12T10:53:01.577Z"
+}

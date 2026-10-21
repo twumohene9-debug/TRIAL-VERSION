@@ -1,0 +1,6 @@
+{
+  "name": "MCQ Assessment Hub",
+  "description": "A technology-enhanced platform designed to support digital mathematics assessment, question delivery, assessment administration, and student performance management.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

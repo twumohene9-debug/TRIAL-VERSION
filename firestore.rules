@@ -1,0 +1,60 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Quizzes collection
+    match /quizzes/{quizId} {
+      allow read, write: if true;
+    }
+    
+    // Submissions collection
+    match /submissions/{submissionId} {
+      allow read, write: if true;
+    }
+
+    // Submission details partition collection
+    match /submission_details/{submissionId} {
+      allow read, write: if true;
+    }
+    
+    // Active Sessions collection (Live Student Monitoring)
+    match /active_sessions/{sessionId} {
+      allow read, write: if true;
+    }
+    
+    // Teacher Proctor Warnings collection
+    match /teacher_warnings/{warningId} {
+      allow read, write: if true;
+    }
+    
+    // Teacher Access Codes collection
+    match /teacher_access_codes/{codeId} {
+      allow read, write: if true;
+    }
+    
+    // Assessment Sections collection
+    match /sections/{sectionId} {
+      allow read, write: if true;
+    }
+    
+    // System Settings collection
+    match /system_settings/{settingId} {
+      allow read, write: if true;
+    }
+    
+    // App State collection
+    match /app_state/{stateId} {
+      allow read, write: if true;
+    }
+
+    // Camera Captures collection (Proctoring photos)
+    match /camera_captures/{captureId} {
+      allow read, write: if true;
+    }
+
+    // Default fallback
+    match /{document=**} {
+      allow read, write: if true;
+    }
+  }
+}
+
